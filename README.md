@@ -20,6 +20,8 @@
 
 🌱 Currently learning: **Advanced AI Models, Data Engineering**, and **Real-time Analytics**
 
+NOTE:- MISTAKENLY I HAVE DELETED PREVIOUS CONTRIBUTIONS AS IT WAS IN SINGLE REPSOITORY
+
 ---
 
 ### 🧰 Tech Stack
